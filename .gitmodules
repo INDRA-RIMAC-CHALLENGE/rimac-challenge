@@ -1,0 +1,9 @@
+[submodule "appointment"]
+	path = appointment
+	url = git@github.com:INDRA-RIMAC-CHALLENGE/appointment.git
+[submodule "appointment-pe"]
+	path = appointment-pe
+	url = git@github.com:INDRA-RIMAC-CHALLENGE/appointment-pe.git
+[submodule "appointment-cl"]
+	path = appointment-cl
+	url = git@github.com:INDRA-RIMAC-CHALLENGE/appointment-cl.git
